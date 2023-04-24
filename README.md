@@ -6,3 +6,5 @@ If the user inputs a value of 3, the program will output a pyramid of height 3 t
   # #
  ## ##
 ### ###
+
+This program utilizes the Harvard CS50 Introdution to Python library <cs50.h> which includes the get_int(). This function takes the user's input of an integer.
